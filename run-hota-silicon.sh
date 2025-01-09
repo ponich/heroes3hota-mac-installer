@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-GAME_INSTALLER_DOWNLOAD_URL="https://heroes3towns.com/HotA/HotA_1.7.0_full_setup.exe"
+GAME_INSTALLER_DOWNLOAD_URL="https://heroes3towns.com/HotA/HotA_1.7.2_full_setup.exe"
 GAME_WINE_INSTALLED_PATH="$HOME/.wine/drive_c/Games/Heroes3_HotA/"
 
 download_game_installer() {
